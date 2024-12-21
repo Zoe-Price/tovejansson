@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tove Jansson - Liv och Verk</title>
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<nav>
+    <div class="nav-buttons">
+        <button class="nav-button">Översikt</button>
+        <button class="nav-button">Livstidslinje</button>
+        <button class="nav-button">Bildhuggarens dotter</button>
+    </div>
+</nav>
+
+<main>
+    <section id="overview" class="section overview-section">
+        <div class="overview-container">
+            <div class="section-content">
+                <div class="overview-text">
+                    <h2>Tove Jansson - Liv och Verk</h2>
+                    <p>För mitt slutprojekt, skapade jag denna interaktiva dashboard för att visa några av de viktigaste delarna av Tove Janssons liv, hennes konstverk, och hennes påverkan på konsten och litteraturen.</p>
+
+                    <p>Tove Jansson (1914–2001) är mest känd som skaparen av de älskade Mumin-figurerna, som har fascinerat människor över hela världen genom böcker, serier, och animationer. Mumintrollen är inte bara charmiga figurer, utan de speglar också Janssons tankar om familj, natur och de komplexa känslorna. Mer än bara Mumintrollen är Jansson också känd för sin breda konstnärliga verksamhet, målningar, muralmålningar och litteratur.</p>
+
+                    <p>Jag tycker att de mesta intressant saker av Tove Jansson är hennes liv som barn av en konstnärer och hur denna uppväxt formade hennes konstnärliga syn. Hon föddes i Helsingfors, Finland, och växte upp i en kreativ miljö, där hennes far var skulptör och hennes mor illustratör. Denna konstnärliga bakgrund inspirerade hennes tidiga intresse för måleri.</p>
+
+                    <p>Alla bakgrundsbilder här är Janssons illustrationer eller målningar. Jansson fokuserade ofta på barns perspektiv och känslor, och hennes konst speglar teman som fantasi, oskuld, och styrka.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="section-separator" id="timeline-divider"></div>
+    <section id="timeline" class="section timeline-section">
+        <div class="timeline-container">
+            <img src="./data/background-tj.jpg" alt="Winter Landscape" class="background-image">
+            <div class="timeline-points">
+                <!-- Timeline points will be positioned here -->
+            </div>
+            <div class="timeline-instruction-popup">
+                <p>Klicka på punkterna för att lära dig mer om viktiga händelser i Tove Janssons liv.</p>
+            </div>
+
+        </div>
+    </section>
+
+    <div class="section-separator"></div>
+
+    <section id="book" class="section book-section">
+        <div class="section-content">
+            <h1 id="section-title">Bildhuggarens dotter</h1>
+            <div class="book-slideshow">
+                <div class="slide">
+                    <div class="slide-image-container"></div>
+                    <div class="slide-content">
+                        <div class="slide-text">
+                            <h3></h3>
+                            <p></p>
+                        </div>
+
+                        <div class="slide-quote">
+                            <blockquote></blockquote>
+                        </div>
+                    </div>
+
+                    <div class="slide-nav">
+                        <button class="prev-slide">Tillbaka</button>
+                        <button class="next-slide">Nästa</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="section-separator"></div>
+</main>
+
+<script src="js/main.js"></script>
+</body>
+</html>
