@@ -93,67 +93,67 @@ const bookSlides = [
         image: './data/c1.jpg',
         title: 'Kapitel 1: Guldkalven',
         text: 'I kapitlet Guldkalven minns Tove en lek hon lekte med sin kusin Karin när de var små. De låtsades vara "Israels barn," och deras farfar, som var präst, blev som en gud i deras fantasi. Kapitlet beskriver en magisk och lekfull miljö där barnen offrar saker och väntar på tecken från Gud. Men Tove blir avundsjuk när Karin säger att hon fått ett särskilt tecken från Gud – en gul fågel som kom till hennes rum. För att trotsa det bestämmer sig Tove för att skapa sin egen "gyllene kalv" i en mörk, övervuxen berså. Kalven blir både ett uttryck för kreativitet och uppror. Men i slutet händer något lustigt när hennes farmor misstar kalven för ett lamm, vilket gör Tove både besviken och fundersam över sin skapelse.',
-        
+
     },
     {
         image: './data/c1-1.jpg',
         title: 'Kapitel 2: Mörkret',
         text: 'I Mörkret ändras tonen till något mer mystiskt och läskigt. Tove beskriver en plats bakom den ryska kyrkan där det finns en mörk röd byggnad utan fönster och en brant med trasigt glas och gammalt skräp. För henne och hennes vän Poyu är platsen skrämmande och spännande på samma gång. Hon berättar historier om "Förruttnelsen," ett farligt väsen som bor bakom en låst dörr i berget. Poyu, som är rädd men nyfiken, följer ändå efter henne. När skymningen kommer förvandlas området till något ännu mer hotfullt. Tove beskriver en stor, ansiktslös varelse som kryper fram över hamnen. Kapitlet fångar hur barnets fantasi kan förvandla vanliga platser till något både läskigt och fascinerande. Stämningen är mystisk, men samtidigt visar det Toves förmåga att göra det vardagliga magiskt.',
-       
+
     },
     {
         image: './data/c11.jpg',
         title: 'Kapitel 3: Stenen',
         text: 'Kapitlet handlar om ett barn som hittar en speciell sten med silvriga flingor mellan en kolhög och några godsvagnar. Barnet ser det som ett mirakel eftersom ingen annan verkar ha märkt stenen tidigare. De bestämmer sig för att ta hem den och börjar en svår resa. Stenen måste rullas, men den rör sig bara ett halvt varv åt gången, vilket gör framstegen väldigt långsamma. När barnet rullar stenen genom gatorna, knackar förbipasserande på sina paraplyer och gör kommentarer, men barnet fortsätter envist, helt fokuserad på sin uppgift. Stenen måste korsa vägar, passera förbi spårvagnar och tas uppför trappor. En särskilt svår stund inträffar på fjärde våningen, där stenen blir svår att kontrollera. Till slut slår stenen i Nieminens dörr med ett högt dunk. Barnet förväntar sig trubbel och täcker sina ögon, men ingenting händer. Slutligen når de en balkong och försöker rulla stenen över en hög tröskel, där den fastnar mellan två dörrar med spiralfjädrar.',
-       
+
     },
     {
         image: 'data/500.webp',
         title: 'Kapitel 4: Hippa',
         text: 'Detta kapitel ger en intim inblick i familjesammankomster och livet hemma. Festerna kretsar kring musik, särskilt balalajkan och gitarren som pappan spelar. Musiken börjar mjukt och sorgset, ofta som viskningar, men kan bli vild och kaotisk. Berättaren beskriver hur rök fyller rummet, och ett grått tobaksdis bildas vid taket, vilket får allt att kännas overkligt. Festerna har en bittersöt stämning – de kan pågå i flera nätter med musik och firande, men de beskrivs också som utmattande. Pappan sitter ofta rakt upp med sitt huvud som "ett blekt ljus i röken." Kapitlet betonar hur viktiga dessa fester är, även om de är krävande, och säger att "det är väldigt viktigt att göra en ansträngning för att vara där." Pappan stannar ofta vaken tills morgonen, stirrar och tänker, medan andra sover. Berättelsen fångar både magin och melankolin i dessa sammankomster, sett genom ett barns ögon, och antyder att om man tittar för noga på festerna försvinner allt – som om minnena är sköra och drömlika.',
-        
+
     },
     {
         image: './data/Tove-Jansson-Didrichsen-Museum-Lanscape-picnic.jpg',
         title: 'Kapitel 5: Anna',
         text: 'I kapitlet Anna beskrivs Anna som vacker, med hår som "grov gräs" och rosa kinder. Hennes armar dyker ner i diskvattnet "som pelare." Men relationen mellan Anna och berättaren är spänd och ibland svår. En konflikt kring konst och publicering uppstår. Anna arbetar på vad berättaren beskriver som "ett skräpigt företag som inte publicerar Platon." Det finns spänning kring färgtryck och illustrationer, där Anna insisterar på att saker måste göras på ett visst sätt, trots berättarens oenighet. En annan återkommande händelse handlar om en korgstol som pappan attackerar med sin bajonett, vilket får alla att hoppa och ropa. Detta avbryter hans balalajkaspel, och efteråt slutar han spela helt. Anna visar också sitt intresse för litteratur. Hon studerar den trettonde versen av "Lord Henry and Fair Hilda," där "saker faktiskt börjar hända." Hon har även en älskare som beskrivs som en krigare, klädd i röda byxor med guldbroderier och en drake. Trots spänningarna delar Anna och berättaren en stunds tillfällig fred när de bygger ett hus under köksbordet. Berättaren medger dock att de gör detta mest av artighet. Kapitlet tar också upp minnen av fågelbärsblommor på marknaden, som påminner om Mummys födelsedag och hur dessa blommors ankomst alltid tycks orsaka problem. Genom kapitlet finns en underliggande känsla av spänning mellan att hålla sig artig och hantera verkliga konflikter. Berättaren biter ofta ihop för att bevara freden, medan Anna framställs som något envis i sina åsikter och vanor. Kapitlet fångar på ett fint sätt komplexiteten i en relation där människor måste samsas trots sina olikheter.',
-        
+
     },
     {
         image: './data/c12.jpg',
         title: 'Kapitel 6: Isberget',
-        text: 'I kapitlet Isberget berättar Tove om en sommar som kom tidigt, nästan som vår, och hur allt kändes annorlunda. Medan familjen ror med Old Charlie till ön där de tillbringar somrarna, upptäcker Tove ett isberg som flyter mot henne. Isberget är grönt och vitt och glittrar i solen, och Tove bestämmer sig för att det är hennes. För att hålla isberget som sitt eget säger hon ingenting, och ingen annan pratar heller om det, vilket gör att det förblir hennes hemlighet. När kvällen kommer och familjen packar upp sina saker, väntar Tove på att isberget ska följa efter henne, men det dyker inte upp. Hon går och lägger sig, men vaknar mitt i natten och smyger ut ensam för att leta efter det. Vid strandens ände hittar hon isberget, vackert och mystiskt, men på precis fel avstånd – för långt för att hon ska kunna hoppa, men för kort för att helt ge upp tanken. Hon känner en inre konflikt men vågar inte hoppa in i grottan som är lika stor som hon själv. Till slut kastar hon sin pappas ficklampa in i grottan, vilket förvandlar den till ett lysande akvarium, en smaragd eller en julkrubba. Skönheten är så överväldigande att hon inte kan hantera det. Hon sätter fötterna mot isberget och skjuter det iväg med all sin kraft. Med ficklampan ombord glider isberget långsamt bort och sveps ut till havs. Tove känner en blandning av stolthet och besvikelse – hon har skickat iväg sitt isberg, men ändå känner hon sig som en fegis för att hon inte vågade hoppa. När hon går och lägger sig igen tänker hon på hur ficklampan kanske fortsätter lysa på havsbotten även efter att isberget smält. Kapitlet fångar barnets blandning av äventyrslystnad, rädsla och fantasi, och skildrar en djup känsla av skönhet och förlust.',        
-        
+        text: 'I kapitlet Isberget berättar Tove om en sommar som kom tidigt, nästan som vår, och hur allt kändes annorlunda. Medan familjen ror med Old Charlie till ön där de tillbringar somrarna, upptäcker Tove ett isberg som flyter mot henne. Isberget är grönt och vitt och glittrar i solen, och Tove bestämmer sig för att det är hennes. För att hålla isberget som sitt eget säger hon ingenting, och ingen annan pratar heller om det, vilket gör att det förblir hennes hemlighet. När kvällen kommer och familjen packar upp sina saker, väntar Tove på att isberget ska följa efter henne, men det dyker inte upp. Hon går och lägger sig, men vaknar mitt i natten och smyger ut ensam för att leta efter det. Vid strandens ände hittar hon isberget, vackert och mystiskt, men på precis fel avstånd – för långt för att hon ska kunna hoppa, men för kort för att helt ge upp tanken. Hon känner en inre konflikt men vågar inte hoppa in i grottan som är lika stor som hon själv. Till slut kastar hon sin pappas ficklampa in i grottan, vilket förvandlar den till ett lysande akvarium, en smaragd eller en julkrubba. Skönheten är så överväldigande att hon inte kan hantera det. Hon sätter fötterna mot isberget och skjuter det iväg med all sin kraft. Med ficklampan ombord glider isberget långsamt bort och sveps ut till havs. Tove känner en blandning av stolthet och besvikelse – hon har skickat iväg sitt isberg, men ändå känner hon sig som en fegis för att hon inte vågade hoppa. När hon går och lägger sig igen tänker hon på hur ficklampan kanske fortsätter lysa på havsbotten även efter att isberget smält. Kapitlet fångar barnets blandning av äventyrslystnad, rädsla och fantasi, och skildrar en djup känsla av skönhet och förlust.',
+
     },
     {
         image: './data/images.jpeg',
         title: 'Kapitel 7: Havsvikarna',
         text: 'Berättelsen börjar klockan fyra på morgonen. Det är grått ute och berättaren beskriver fem vikar där ingen bor. I den första viken finns en grotta med sandgolv. Vi möter Fanny, som är en speciell flicka med gulgråa kläder, vitt hår och vitblåa ögon. Hon samlar stenar och döda djur, och är den enda som inte är rädd för hästarna. När det regnar går hon till skogen och stannar där. Berättaren träffar en hemlig vän och de pratar om Fanny. De dricker hembränt kaffe tillsammans. Senare minns berättaren en viktig dag med sin pappa när de hittade svampkorgar. De plockade svamp tillsammans och pappa lärde dem om olika svampar. Det var viktigt att hitta mat för vintern. I den fjärde viken finns en skog ritad av John Bauer. Det är en mystisk plats där allt har samma färg - mossan, stammarna och granarna är mest grått och brunt med lite grönt. Kapitlet slutar med en märklig händelse där solen inte går upp som vanligt. Klockan blir både nio, tio, elva och tolv men det förblir mörkt. De försöker lyssna på radion och kolla antennen, men ingenting fungerar. Havet börjar sjunka och konstiga saker händer - det kommer upp konservburkar ur havet och det finns skelett av gamla grisar på havsbotten. Det är en mystisk och lite skrämmande berättelse som blandar vardagliga händelser med övernaturliga inslag.',
-        
+
     },
     {
         image: './data/c7.jpg',
         title: 'Kapitel 8: Sjörätt',
         text: 'Berättaren beskriver en stormig sjöresa där de seglar mot Estland i dimman. Pappa älskar stora vågor, särskilt när de kommer från sydväst. Familjen bor under spriseglet på Tunnholmen tillsammans med Hermansons och Sjöbergs. Under stormen arbetar alla - fruarna organiserar medan männen flyttar båtarna högre upp och rullar stenar. Mamma sveper in berättaren i en filt. Genom seglet kan man se en trekant av ljung, bränning och himmel. Männen patrullerar stranden hela natten för att kontrollera att allt är säkert, mäter vattenhöjden och bedömer vindstyrkan. Det är en spännande men också orolig natt där alla samarbetar för att klara stormen tillsammans',
-        
+
     },
     {
         image: './data/668c13c3-c32b-4d97-a2fa-ab94f9acd645-338.jpeg',
         title: 'Kapitel 9: Albert',
         text: 'Albert är en pojke som är sex dagar äldre än henne. De tillbringar tid tillsammans vid sjön, där Albert sitter i sin båt och fiskar. Berättaren tycker att det är hemskt att sätta krokar i fiskar medan de lever, men Albert förklarar att det är så man fiskar. De grälar lite, men fortsätter att umgås. En dag börjar de bygga en flotte tillsammans. De använder plankor och spikar och räknar hammarslagen högt medan de arbetar. Efter att flotten är klar tar de ut den i vattnet och paddlar långsamt iväg. De når en plats där dimman börjar lägga sig över vattnet. Albert är bestämd och säger att de inte ska gå längre eftersom det kan bli farligt. När de är ute i dimman ser Albert en fågel som flyter i vattnet. Fågeln är skadad och försöker fly, men Albert fångar den försiktigt. Berättaren tycker synd om fågeln och vill låta den leva, men Albert säger att den är för sjuk för att klara sig. Med en kniv avslutar Albert fågelns lidande, vilket gör berättaren ledsen och skakad. Albert försöker trösta genom att säga att det var nödvändigt och att det inte finns något mer att göra. Slutligen klarnar dimman, och de paddlar tillbaka. Albert visar att han alltid hittar lösningar, även i svåra situationer. Berättaren känner sig lugnare när dimman lättar, och de återvänder hem tillsammans.',
-        
+
     },
     {
         image: './data/c10.jpg',
         title: 'Kapitel 10: Högvatten',
         text: 'Det är en sommar där båthuset står tomt, och Kallebisin fiskar hela tiden. Mamman ritar illustrationer och skickar dem till staden. Pappan börjar använda båthuset som sin ateljé, och det blir en helig plats som ingen får röra. På stranden är det lugnt, och båtarna får stanna vid bryggan. Det är en het sommar, och livet kretsar kring ritandet, fiskandet och familjens rutiner. Mamman fortsätter rita och hoppar i vattnet för att svalka sig, medan pappan jobbar i sin ateljé och fiskar för sig själv. Kallebisin har sina sommargäster, och alla hittar sitt eget sätt att njuta av sommaren. Men så händer något oväntat: vattnet stiger snabbt på natten och täcker stora delar av området. Familjen och gästerna kämpar för att rädda saker från båthuset och stranden. Trots kaoset finns det ögonblick av glädje när de tillsammans försöker hantera situationen. När vattnet slutligen sjunker tillbaka, är båthuset fortfarande fullt av lera och förstört, men familjen ser ändå ljuset i situationen och finner en sorts lättnad.',
-        
+
     },
     {
         image: 'data/mountain-tove-jansson-1966-eb0f0cc6.jpg',
         title: 'Kapitel 11: Jeremiah',
         text: 'Jeremiah är en geolog som bor i lotsarnas bod. Han pratar inte svenska eller finska, men kommunicerar med gester och blickar. Han jobbar hårt med sin stenknackare och åker ibland ut till öarna för att arbeta. Berättaren spenderar mycket tid med honom och hjälper till genom att bära hans verktyg eller hålla vakt vid båten. Ibland får berättaren också stanna på stranden medan Jeremiah fortsätter sitt arbete på klipporna. Jeremiah verkar lite klumpig och ovan med vissa saker. Han kan till exempel inte knyta en rosett ordentligt, och berättaren tycker det är lite pinsamt ibland. Trots detta har de en speciell vänskap och hittar på lekar tillsammans. En av deras lekar går ut på att berättaren gömmer sig, och Jeremiah måste leta efter hen. Detta skapar både spänning och skratt mellan dem. De tillbringar många dagar tillsammans vid havet och på klipporna. Jeremiah knackar sten medan berättaren väntar eller följer honom på avstånd. Vädret är ibland kallt och blåsigt, men de fortsätter ändå. Berättaren märker hur Jeremiah är tålmodig och fokuserad på sitt arbete, även om han inte alltid verkar förstå allt som händer runtomkring. En dag gömmer sig berättaren längre än vanligt, och Jeremiah blir förvirrad när han inte hittar hen. När han till slut hittar presenten som berättaren har lämnat till honom, blir han glad men också förvånad. De fortsätter att leka, men berättaren börjar märka att Jeremiah blir mer och mer beroende av hens hjälp. Trots deras lekfulla dagar finns det också stunder av osäkerhet och pinsamhet. Berättaren känner sig ibland liten och oviktig jämfört med Jeremiah, men samtidigt är vänskapen mellan dem stark. Berättaren reflekterar över deras tid tillsammans och hur deras relation utvecklas genom deras gemensamma dagar vid havet och klipporna. Sammanfattningsvis handlar kapitlet om vänskapen mellan berättaren och Jeremiah, deras lekfulla äventyr och de utmaningar som uppstår när två personer från olika världar försöker förstå varandra.',
-        
+
     },
     {
         image: 'data/paradise-tj.jpg',
@@ -164,7 +164,7 @@ const bookSlides = [
             '\n' +
             'I föreställningen blev Fanny en drottning och stampade runt, medan berättaren agerade prinsessan Florinna som försökte fly från drottningens elaka planer. Regnet och mörkret gjorde scenen ännu mer spännande. Pappa kom hem och fann dem mitt i deras teaterlek, vilket avslutade deras lilla äventyr för dagen.\n' +
             'Kapitlet visar Fannys självständighet och fantasin hos både henne och berättaren, samtidigt som naturen och regnet skapar en speciell stämning.\n',
-        
+
     },
     {
         image: './data/c3.jpg',
@@ -176,7 +176,7 @@ const bookSlides = [
             'Pappan tycker också om att prata om "fruarna," kvinnor som står modell för honom. Men han verkar ha en komplicerad relation till dem och tycker att det är svårt att arbeta med dem jämfört med djuren. Mamma är däremot oberörd av fruarna och fokuserar på sitt eget liv.\n' +
             '\n' +
             'Slutligen nämns hur familjen ibland blir trött på pappans alla djur och hans besatthet av att ta hand om dem. Men pappan verkar ändå vara nöjd med sitt liv, fullt av djur och konstiga små äventyr.\n',
-        
+
     },
     {
         image: './data/family1.jpg',
@@ -188,7 +188,7 @@ const bookSlides = [
             'Under processen sker flera humoristiska och rörande händelser. Tanten är väldigt ivrig men också osäker, vilket leder till små missöden med gipset och tavlorna. Barnen i familjen ser hennes arbete som både fascinerande och underhållande, även om de ibland har svårt att förstå varför hon är så dedikerad.\n' +
             '\n' +
             'I slutändan blir tanten nöjd med sitt arbete och packar ihop sina tavlor för att ta med dem hem. Trots att hon möter hinder och får hantera kritik, visar hon en stark vilja och stolthet över sitt projekt. Hennes konstverk blir ett minne som både förundrar och förvirrar familjen.\n',
-    
+
     },
     {
         image: './data/family2.jpeg',
@@ -198,7 +198,7 @@ const bookSlides = [
             'Tove tar med sig kjolen och gömmer sig under den, nästan som att skapa en egen kokong av trygghet. Ateljén, som annars är en plats av kreativitet och rörelse, förvandlas till en plats av spänning och fara när mörka gestalter och djur verkar fylla rummet. I detta kaotiska äventyr brottas Tove med känslor av både rädsla och nyfikenhet.\n' +
             '\n' +
             'Till slut lyckas Tove fly undan de märkliga händelserna och återlämnar tyllkjolen till garderoben. Trots alla utmaningar känner hon en viss stolthet över att ha återställt ordningen. Kapitlet avslutas med en reflektion över Toves handlingar och hur hon har navigerat genom både faror och möjligheter, precis som varje god medborgare borde göra.\n',
-       
+
     },
     {
         image: './data/family3.jpg',
@@ -212,7 +212,7 @@ const bookSlides = [
             'En speciell episod är när mamman försöker övertyga Tove om att allt är i sin ordning, medan Tove kämpar med sina egna tankar och känslor kring den märkliga situationen. Tillsammans försöker de skapa någon form av ordning i det kaotiska landskapet.\n' +
             '\n' +
             'I slutet av kapitlet börjar de lämna huset och reflektera över sina upplevelser. Mamman, som fortsätter att rita och skapa, verkar hitta tröst i det konstnärliga, medan Tove brottas med frågor om snöns och husets betydelse.\n',
-        
+
     },
     {
         image: './data/family4.jpg',
@@ -224,7 +224,7 @@ const bookSlides = [
             'Pappan är upptagen med sitt arbete i ateljén, men han visar också en viss omtanke för både berättaren och Poppolino. I en särskild episod försöker han lugna apan och hjälpa till att skapa ordning i det lilla kaos som alltid tycks följa familjen.\n' +
             '\n' +
             'I slutet av kapitlet reflekterar berättaren över vardagen, sjukdomen och hur folk ibland finner glädje i små handlingar. Det är en melankolisk men också humoristisk och varm berättelse om hur familjen hanterar sina små och stora utmaningar.\n',
-       
+
     },
     {
         image: './data/c7.jpg',
@@ -238,7 +238,7 @@ const bookSlides = [
             'Kapitlet kulminerar i en vision där inte bara Tove utan också människor, djur och föremål börjar flyga. Det är en kollektiv handling av frihet och förundran, där till och med presidenten deltar. Världen fylls av en känsla av lätthet och samhörighet när Helsingfors förvandlas till en plats där alla svävar över marken.\n' +
             '\n' +
             'Slutligen lämnar Tove sitt rum, öppnar fönstret och tar ett språng tillsammans med sina följeslagare, symboliserande en övergång från dröm till verklighet. Kapitlet utforskar teman som frihet, gemenskap och kraften i att våga tro på det omöjliga.\n',
-        
+
     },
     {
         image: './data/family5.jpg',
@@ -250,7 +250,7 @@ const bookSlides = [
             'Efter att ljusen har slocknat och musiken tonar bort, ger texten en känsla av avslutning och lugn. Pappan står tyst i ateljén och försöker återskapa melodier, men tystnaden framstår som mer uttrycksfull än orden. Mamman packar undan julens föremål, en process som markerar en övergång från festligheter till vardag.\n' +
             '\n' +
             'Slutet på kapitlet förmedlar en känsla av trygghet och förnyelse. Med föremålen från julen bortpackade, står gipstavlan kvar som en påminnelse om det eviga i familjens band och det som håller världen samman – kärlek och gemenskap.\n',
-       
+
     }
 
 ];
